@@ -12,3 +12,4 @@ arxiv
 wikipedia
 ddgs
 pypdf
+protobuf==3.20.1
