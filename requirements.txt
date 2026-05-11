@@ -12,3 +12,4 @@ arxiv
 wikipedia
 ddgs
 pypdf
+torchvision
